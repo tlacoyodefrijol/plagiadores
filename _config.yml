@@ -9,7 +9,7 @@
 title: Políticos plagiadores
 email: your-email@domain.com
 description: Descripción del sitio.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/plagiadores" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:
